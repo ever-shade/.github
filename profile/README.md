@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### This GitHub organisation is maintained by INSERT COMPANY HERE
+### This GitHub organisation is maintained by Cube Web Services
 
 <!--
 
