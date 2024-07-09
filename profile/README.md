@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-### This GitHub organisation is maintained by Cube Web Services
-
 <!--
 
 **Here are some ideas to get you started:**
